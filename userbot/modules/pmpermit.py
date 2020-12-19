@@ -17,11 +17,28 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Hey! Sorry, I haven't approved you to PM yet.`\n"
-    "`Please wait for me to look in`\n"
-    "`Until then, please don't spam my PM..`\n"
-    "`Thank you for being patient.`\n\n"
-    "`*This is an automated message`")
+    "`╭━━━━━━━━━━━━━━━━━━━━╮
+           SELAMAT DATANG DI
+             ℻•⼄Ꭼєッ ||  || CHAT
+╰━━━━━━━━━━━━━━━━━━━━╯
+
+  Senang Kita Bertemu !!!
+
+⚙️Saya Bot Assisten ℻•⼄Ꭼєッ
+╾─────────────────────╼
+⚙️Saya Membalas Pesan ini dikarenakan
+℻•⼄Ꭼєッ Belum Menerima Pesanmu
+Atau Sedang Offline
+╾─────────────────────╼
+⚙️Silahkan Tungguu Sampai
+℻•⼄Ꭼєッ  Menerima Pesanmu
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+
+╾─────────────────────╼
+    ♥️♥️TERIMAKASIH ❤️♥️
+─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇
+- ©Bot Assisten ℻•⼄Ꭼє-X
+- Protected By ZEE-X`")
 # =================================================================
 
 
