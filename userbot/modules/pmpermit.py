@@ -16,29 +16,15 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = (
-    "`╭━━━━━━━━━━━━━━━━━━━━╮
-           SELAMAT DATANG DI
-             ℻•⼄Ꭼєッ ||  || CHAT
-╰━━━━━━━━━━━━━━━━━━━━╯
+UNAPPROVED_MSG = ("`Hey! Sorry, I haven't approved you to PM yet.`\n"
 
-  Senang Kita Bertemu !!!
+    "`Please kontol to look in`\n"
 
-⚙️Saya Bot Assisten ℻•⼄Ꭼєッ
-╾─────────────────────╼
-⚙️Saya Membalas Pesan ini dikarenakan
-℻•⼄Ꭼєッ Belum Menerima Pesanmu
-Atau Sedang Offline
-╾─────────────────────╼
-⚙️Silahkan Tungguu Sampai
-℻•⼄Ꭼєッ  Menerima Pesanmu
-▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+    "`Pentils then, please don't spam my PM..`\n"
 
-╾─────────────────────╼
-    ♥️♥️TERIMAKASIH ❤️♥️
-─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇
-- ©Bot Assisten ℻•⼄Ꭼє-X
-- Protected By ZEE-X`")
+    "`Thank you for being patient.`\n\n"
+
+    "`*This is an automated message`")
 # =================================================================
 
 
